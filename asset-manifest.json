@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AthfixHome/static/css/main.7701737a.chunk.css",
+    "main.js": "/AthfixHome/static/js/main.289e2805.chunk.js",
+    "main.js.map": "/AthfixHome/static/js/main.289e2805.chunk.js.map",
+    "runtime-main.js": "/AthfixHome/static/js/runtime-main.4895ac1e.js",
+    "runtime-main.js.map": "/AthfixHome/static/js/runtime-main.4895ac1e.js.map",
+    "static/js/2.d2da1efe.chunk.js": "/AthfixHome/static/js/2.d2da1efe.chunk.js",
+    "static/js/2.d2da1efe.chunk.js.map": "/AthfixHome/static/js/2.d2da1efe.chunk.js.map",
+    "static/js/3.01312093.chunk.js": "/AthfixHome/static/js/3.01312093.chunk.js",
+    "static/js/3.01312093.chunk.js.map": "/AthfixHome/static/js/3.01312093.chunk.js.map",
+    "index.html": "/AthfixHome/index.html",
+    "static/css/main.7701737a.chunk.css.map": "/AthfixHome/static/css/main.7701737a.chunk.css.map",
+    "static/js/2.d2da1efe.chunk.js.LICENSE.txt": "/AthfixHome/static/js/2.d2da1efe.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/AthfixHome/static/media/webdel.10dcaf71.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4895ac1e.js",
+    "static/js/2.d2da1efe.chunk.js",
+    "static/css/main.7701737a.chunk.css",
+    "static/js/main.289e2805.chunk.js"
+  ]
+}
